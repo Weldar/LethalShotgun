@@ -1,0 +1,13 @@
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.csproj.AssemblyReference.cache
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/PluginInfo.cs
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.AssemblyInfoInputs.cache
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.AssemblyInfo.cs
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.csproj.CoreCompileInputs.cache
+/home/matt/git/LethalShotgun/LethalShotgun/bin/Debug/netstandard2.1/LethalShotgun.deps.json
+/home/matt/git/LethalShotgun/LethalShotgun/bin/Debug/netstandard2.1/LethalShotgun.dll
+/home/matt/git/LethalShotgun/LethalShotgun/bin/Debug/netstandard2.1/LethalShotgun.pdb
+/home/matt/git/LethalShotgun/LethalShotgun/bin/Debug/netstandard2.1/Assembly-CSharp.dll
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.csproj.CopyComplete
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.dll
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/netstandard2.1/LethalShotgun.pdb

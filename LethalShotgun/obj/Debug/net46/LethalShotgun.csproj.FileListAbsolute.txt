@@ -1,0 +1,6 @@
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/net46/LethalShotgun.csproj.AssemblyReference.cache
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/net46/PluginInfo.cs
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/net46/LethalShotgun.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/net46/LethalShotgun.AssemblyInfoInputs.cache
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/net46/LethalShotgun.AssemblyInfo.cs
+/home/matt/git/LethalShotgun/LethalShotgun/obj/Debug/net46/LethalShotgun.csproj.CoreCompileInputs.cache
